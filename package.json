@@ -43,7 +43,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-jpg": "^2.0.0",
-    "jpeg-recompress-bin": "^5.0.0"
+    "jpeg-recompress-bin": "github:wearebond/jpeg-recompress-bin"
   },
   "devDependencies": {
     "ava": "^3.8.0",
